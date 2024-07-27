@@ -51,8 +51,8 @@ Choose between text and image input, enter or upload the content, select the tar
 ## Datasets used in the project
 
 
-[Dataset for Grammar Error Correction](https://www.kaggle.com/datasets/dariocioni/c4200m0)
+[Dataset for Grammar Error Correction](https://www.kaggle.com/datasets/dariocioni/c4200m)
 C4_200M     
 
-[Dataset for Tone Enhancement](ttps://github.com/sourav3366/sentence-correction-using-deep-learning-techniques/blob/main/en2cn-2k.en2nen2cn )
+[Dataset for Tone Enhancement](https://github.com/sourav3366/sentence-correction-using-deep-learning-techniques/blob/main/en2cn-2k.en2nen2cn )
 With_Augumentation_2
