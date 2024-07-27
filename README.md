@@ -59,6 +59,7 @@ Choose between text and image input, enter or upload the content, select the tar
 
 # Working Video:
 
+https://github.com/user-attachments/assets/4be9460c-7af9-444e-87e6-c7f1e1dfabda
 
 ## Datasets used in the project
 
