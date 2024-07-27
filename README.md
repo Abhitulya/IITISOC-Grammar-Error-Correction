@@ -21,6 +21,7 @@ This a powerful tool designed to enhance and transform text through various func
 **3) Language Translation:** Translates text from one language to another.
 
 The app utilizes advanced natural language processing models and libraries to provide high accuracy and speed. It's ideal for users looking to improve their writing or get instant feedback on their language.
+
 # Features
 ## 1. Grammar Error Correction
 Corrects grammatical errors in both text and images containing text.
@@ -42,6 +43,7 @@ Translates text between different languages.
 **Text Input:** Enter your grammatically correct text and select the target language for translation.
 
 **Image Input:** Upload an image containing text, select the target language, and the text will be translated.
+
 ## Usage
 **Grammar Correction:** 
 
@@ -54,6 +56,9 @@ Choose between text and image input, enter or upload the content, and submit for
 **Translation:** 
 
 Choose between text and image input, enter or upload the content, select the target language, and submit for translation.
+
+# Working Video:
+
 
 ## Datasets used in the project
 
