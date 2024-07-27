@@ -5,8 +5,11 @@ Our advanced Grammar Auto Correction tool offers seamless translation and auto-c
 
 ## Installations of all required packages
 
-To install all the commands 
-pip install -r requirements_iitisoc.txt
+To install the required packages, run:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Overview
 This a powerful tool designed to enhance and transform text through various functionalities. It offers features such as:
