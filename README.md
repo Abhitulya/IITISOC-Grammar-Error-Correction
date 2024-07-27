@@ -8,7 +8,7 @@ Our advanced Grammar Auto Correction tool offers seamless translation and auto-c
 To install the required packages, run:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements_iitisoc.txt
 ```
 
 ## Overview
