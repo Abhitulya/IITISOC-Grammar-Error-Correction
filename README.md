@@ -3,6 +3,10 @@
 
 Our advanced Grammar Auto Correction tool offers seamless translation and auto-correct functionality, ensuring impeccable grammar in every language. Enhance your tone with context-aware suggestions, whether for professional or casual communication. The tool also supports tone enhancement via text and image, helping you convey the perfect message with clarity and style. Experience precise, polished communication effortlessly.
 
+## Installations of all required packages
+
+To install all the commands 
+pip install -r requirements_iitisoc.txt
 
 ## Overview
 This a powerful tool designed to enhance and transform text through various functionalities. It offers features such as:
